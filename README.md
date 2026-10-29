@@ -81,7 +81,7 @@ projeto-desenhando-emoji-com-dados/
 
 ## 💻 Acesse o Projeto
 
-🐍 **[Visualizar código-fonte (untitled6_(1).py)](untitled6_(1).py)**
+🐍 **[Visualizar código-fonte (main.py)](main.py)**
 
 📁 **[Acessar pasta do projeto no GitHub](https://github.com/chagasmatheus1211/portfolio-matheus-chagas-mauriz-coque/tree/main/projeto-desenhando-emoji-com-dados)**
 
